@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SuperExpandableTextViewAttr">
+        <!-- 默认情况下需要显示的最大行数 -->
+        <attr name="maxExpandLines" format="integer"></attr>
+        <!-- 一定距离下，动画的时候 -->
+        <attr name="duration" format="integer"></attr>
+    </declare-styleable>
+</resources>
